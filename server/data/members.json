@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "prenom": "Mohamed",
+    "nom": "Tazi",
+    "categorie": "professeur",
+    "matricule": "",
+    "courriel": "mohamed.tazi@uqtr.ca",
+    "telephone_bureau": "+1-819-555-1001",
+    "domaine": "reseaux",
+    "liste_rouge": false,
+    "meta": {
+      "cree_le": "2025-10-13T10:22:00Z",
+      "modifie_le": "2025-10-13T10:22:00Z"
+    }
+  },
+  {
+    "id": "2",
+    "prenom": "Yanis",
+    "nom": "Ait Oumeziane",
+    "categorie": "auxiliaire",
+    "matricule": "",
+    "courriel": "yanis.aitoumeziane@uqtr.ca",
+    "telephone_bureau": "+1-819-555-1002",
+    "domaine": "securite",
+    "liste_rouge": false,
+    "meta": {
+      "cree_le": "2025-10-12T15:05:00Z",
+      "modifie_le": "2025-10-12T15:05:00Z"
+    }
+  },
+  {
+    "id": "3",
+    "prenom": "Massylia",
+    "nom": "Djerroud",
+    "categorie": "etudiant",
+    "matricule": "UQTR20250001",
+    "courriel": "massylia.djerroud@uqtr.ca",
+    "telephone_bureau": "",
+    "domaine": "",
+    "liste_rouge": false,
+    "meta": {
+      "cree_le": "2025-10-11T09:45:00Z",
+      "modifie_le": "2025-10-11T09:45:00Z"
+    }
+  },
+  {
+    "id": "4",
+    "prenom": "Cheikhouna",
+    "nom": "Kebe",
+    "categorie": "etudiant",
+    "matricule": "UQTR20250002",
+    "courriel": "cheikhouna.kebe@uqtr.ca",
+    "telephone_bureau": "",
+    "domaine": "",
+    "liste_rouge": false,
+    "meta": {
+      "cree_le": "2025-10-13T08:31:00Z",
+      "modifie_le": "2025-10-13T08:31:00Z"
+    }
+  },
+  {
+    "id": "5",
+    "prenom": "Taha",
+    "nom": "Remadna",
+    "categorie": "etudiant",
+    "matricule": "UQTR20250003",
+    "courriel": "taha.remadna@uqtr.ca",
+    "telephone_bureau": "",
+    "domaine": "",
+    "liste_rouge": false,
+    "meta": {
+      "cree_le": "2025-10-10T14:19:00Z",
+      "modifie_le": "2025-10-10T14:19:00Z"
+    }
+  },
+  {
+    "id": "6",
+    "prenom": "Ndeye Guilado",
+    "nom": "Sao",
+    "categorie": "etudiant",
+    "matricule": "UQTR20250004",
+    "courriel": "ndeye.sao@uqtr.ca",
+    "telephone_bureau": "",
+    "domaine": "",
+    "liste_rouge": false,
+    "meta": {
+      "cree_le": "2025-10-12T11:57:00Z",
+      "modifie_le": "2025-10-12T11:57:00Z"
+    }
+  }
+]
